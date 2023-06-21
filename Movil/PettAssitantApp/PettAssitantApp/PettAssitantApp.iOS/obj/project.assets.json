@@ -1068,11 +1068,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.iOS\\PettAssitantApp.iOS.csproj",
+      "projectUniqueName": "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantProject\\Movil\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.iOS\\PettAssitantApp.iOS.csproj",
       "projectName": "PettAssitantApp.iOS",
-      "projectPath": "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.iOS\\PettAssitantApp.iOS.csproj",
+      "projectPath": "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantProject\\Movil\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.iOS\\PettAssitantApp.iOS.csproj",
       "packagesPath": "C:\\Users\\Denzel\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.iOS\\obj\\",
+      "outputPath": "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantProject\\Movil\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1093,8 +1093,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.csproj": {
-              "projectPath": "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.csproj"
+            "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantProject\\Movil\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.csproj": {
+              "projectPath": "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantProject\\Movil\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.csproj"
             }
           }
         }

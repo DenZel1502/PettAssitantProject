@@ -3414,11 +3414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.Android\\PettAssitantApp.Android.csproj",
+      "projectUniqueName": "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantProject\\Movil\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.Android\\PettAssitantApp.Android.csproj",
       "projectName": "PettAssitantApp.Android",
-      "projectPath": "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.Android\\PettAssitantApp.Android.csproj",
+      "projectPath": "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantProject\\Movil\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.Android\\PettAssitantApp.Android.csproj",
       "packagesPath": "C:\\Users\\Denzel\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.Android\\obj\\",
+      "outputPath": "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantProject\\Movil\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3439,8 +3439,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.csproj": {
-              "projectPath": "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.csproj"
+            "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantProject\\Movil\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.csproj": {
+              "projectPath": "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantProject\\Movil\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.csproj"
             }
           }
         }
