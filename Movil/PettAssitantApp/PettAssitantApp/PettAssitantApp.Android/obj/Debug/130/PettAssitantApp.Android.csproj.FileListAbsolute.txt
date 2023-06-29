@@ -1280,3 +1280,6 @@ D:\Proyectos\Proyecto-Tesis\PettAssitantProject\Movil\PettAssitantApp\PettAssita
 D:\Proyectos\Proyecto-Tesis\PettAssitantProject\Movil\PettAssitantApp\PettAssitantApp\PettAssitantApp.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 D:\Proyectos\Proyecto-Tesis\PettAssitantProject\Movil\PettAssitantApp\PettAssitantApp\PettAssitantApp.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 D:\Proyectos\Proyecto-Tesis\PettAssitantProject\Movil\PettAssitantApp\PettAssitantApp\PettAssitantApp.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+D:\Proyectos\Proyecto-Tesis\PettAssitantProject\Movil\PettAssitantApp\PettAssitantApp\PettAssitantApp.Android\obj\Debug\130\res\drawable\splash_screen.xml
+D:\Proyectos\Proyecto-Tesis\PettAssitantProject\Movil\PettAssitantApp\PettAssitantApp\PettAssitantApp.Android\obj\Debug\130\res\drawable\logo_dev.png
+D:\Proyectos\Proyecto-Tesis\PettAssitantProject\Movil\PettAssitantApp\PettAssitantApp\PettAssitantApp.Android\obj\Debug\130\android\src\crc644aca0a35afcd752f\SplashActivity.java
