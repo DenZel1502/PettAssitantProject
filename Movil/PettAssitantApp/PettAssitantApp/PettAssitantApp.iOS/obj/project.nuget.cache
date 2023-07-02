@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "EHNPTgcwNj9fUwP0kI+1dxElhnN8QFCbENvfjw/KcQA1KmI+8KxZY++BE96cfsPEHXJ1wFnhbXE/P90gJrrebA==",
+  "dgSpecHash": "FRdzWraS8eskfu/UCPkCt3qDHdD4hJiz7rugo7WzIKoOQGKQ4GI1qmDbp3zgMXzjdh5q1V03HioLVfQNTGae7g==",
   "success": true,
-  "projectFilePath": "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.iOS\\PettAssitantApp.iOS.csproj",
+  "projectFilePath": "C:\\Users\\ALEXANDRO\\Documents\\Tesis\\Project\\Movil\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.iOS\\PettAssitantApp.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Denzel\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\Denzel\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\Denzel\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\ALEXANDRO\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ALEXANDRO\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\ALEXANDRO\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
   "logs": []
 }
