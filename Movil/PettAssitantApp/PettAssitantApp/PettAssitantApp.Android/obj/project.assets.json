@@ -3408,24 +3408,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Denzel\\.nuget\\packages\\": {},
+    "C:\\Users\\ALEXANDRO\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.Android\\PettAssitantApp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\ALEXANDRO\\Documents\\Tesis\\Project\\Movil\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.Android\\PettAssitantApp.Android.csproj",
       "projectName": "PettAssitantApp.Android",
-      "projectPath": "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.Android\\PettAssitantApp.Android.csproj",
-      "packagesPath": "C:\\Users\\Denzel\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.Android\\obj\\",
+      "projectPath": "C:\\Users\\ALEXANDRO\\Documents\\Tesis\\Project\\Movil\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.Android\\PettAssitantApp.Android.csproj",
+      "packagesPath": "C:\\Users\\ALEXANDRO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ALEXANDRO\\Documents\\Tesis\\Project\\Movil\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Denzel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ALEXANDRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3439,8 +3439,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.csproj": {
-              "projectPath": "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.csproj"
+            "C:\\Users\\ALEXANDRO\\Documents\\Tesis\\Project\\Movil\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.csproj": {
+              "projectPath": "C:\\Users\\ALEXANDRO\\Documents\\Tesis\\Project\\Movil\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp\\PettAssitantApp.csproj"
             }
           }
         }
