@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sGc6xrSm4ZIpgf04annHYNlloQlY6tfIUJzJIGMovZhc3jSlavGsSYDZ03/B/W3sOIuf3H5i2/haMcPXqLHlVg==",
+  "success": true,
+  "projectFilePath": "D:\\Proyectos\\Proyecto-Tesis\\PettAssitantProject\\Movil\\PettAssistant\\PettAssistant\\PettAssistant.iOS\\PettAssistant.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denzel\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Denzel\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Denzel\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
