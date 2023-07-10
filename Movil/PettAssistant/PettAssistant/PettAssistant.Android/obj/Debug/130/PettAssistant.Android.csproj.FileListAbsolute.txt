@@ -1417,3 +1417,13 @@ C:\Users\ALEXANDRO\Documents\Tesis\Project\Movil\PettAssistant\PettAssistant\Pet
 C:\Users\ALEXANDRO\Documents\Tesis\Project\Movil\PettAssistant\PettAssistant\PettAssistant.Android\obj\Debug\130\android\src\mono\com\google\android\gms\tasks\OnFailureListenerImplementor.java
 C:\Users\ALEXANDRO\Documents\Tesis\Project\Movil\PettAssistant\PettAssistant\PettAssistant.Android\obj\Debug\130\android\src\mono\com\google\android\gms\tasks\OnSuccessListenerImplementor.java
 C:\Users\ALEXANDRO\Documents\Tesis\Project\Movil\PettAssistant\PettAssistant\PettAssistant.Android\obj\Debug\130\android\src\mono\com\google\android\gms\tasks\OnTokenCanceledListenerImplementor.java
+C:\Users\ALEXANDRO\Documents\Tesis\Project\Movil\PettAssistant\PettAssistant\PettAssistant.Android\obj\Debug\130\res\drawable\fondo.png
+C:\Users\ALEXANDRO\Documents\Tesis\Project\Movil\PettAssistant\PettAssistant\PettAssistant.Android\obj\Debug\130\res\drawable\pet.png
+C:\Users\ALEXANDRO\Documents\Tesis\Project\Movil\PettAssistant\PettAssistant\PettAssistant.Android\obj\Debug\130\res\drawable\fondo_2.png
+C:\Users\ALEXANDRO\Documents\Tesis\Project\Movil\PettAssistant\PettAssistant\PettAssistant.Android\obj\Debug\130\res\drawable\icon_p1.png
+C:\Users\ALEXANDRO\Documents\Tesis\Project\Movil\PettAssistant\PettAssistant\PettAssistant.Android\obj\Debug\130\res\drawable\icon_p2.png
+C:\Users\ALEXANDRO\Documents\Tesis\Project\Movil\PettAssistant\PettAssistant\PettAssistant.Android\obj\Debug\130\res\drawable\line.png
+C:\Users\ALEXANDRO\Documents\Tesis\Project\Movil\PettAssistant\PettAssistant\PettAssistant.Android\obj\Debug\130\res\drawable\next.png
+C:\Users\ALEXANDRO\Documents\Tesis\Project\Movil\PettAssistant\PettAssistant\PettAssistant.Android\obj\Debug\130\res\drawable\icon_p5.png
+C:\Users\ALEXANDRO\Documents\Tesis\Project\Movil\PettAssistant\PettAssistant\PettAssistant.Android\obj\Debug\130\res\drawable\icon_p4.png
+C:\Users\ALEXANDRO\Documents\Tesis\Project\Movil\PettAssistant\PettAssistant\PettAssistant.Android\obj\Debug\130\res\drawable\icon_p3.png
