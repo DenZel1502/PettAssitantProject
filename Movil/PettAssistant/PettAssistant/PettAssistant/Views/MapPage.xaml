@@ -22,5 +22,7 @@
         <maps:Map x:Name="map" MapType="Terrain"/>
 
     </StackLayout>
-
+    
+    
+    
 </ContentPage>

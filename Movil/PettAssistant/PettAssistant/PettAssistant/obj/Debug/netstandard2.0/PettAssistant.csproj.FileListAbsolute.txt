@@ -36,3 +36,5 @@ C:\Users\ALEXANDRO\Documents\Tesis\Project\Movil\PettAssistant\PettAssistant\Pet
 C:\Users\ALEXANDRO\Documents\Tesis\Project\Movil\PettAssistant\PettAssistant\PettAssistant\obj\Debug\netstandard2.0\refint\PettAssistant.dll
 C:\Users\ALEXANDRO\Documents\Tesis\Project\Movil\PettAssistant\PettAssistant\PettAssistant\obj\Debug\netstandard2.0\PettAssistant.pdb
 C:\Users\ALEXANDRO\Documents\Tesis\Project\Movil\PettAssistant\PettAssistant\PettAssistant\obj\Debug\netstandard2.0\ref\PettAssistant.dll
+C:\Users\ALEXANDRO\Documents\Tesis\Project\Movil\PettAssistant\PettAssistant\PettAssistant\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\ALEXANDRO\Documents\Tesis\Project\Movil\PettAssistant\PettAssistant\PettAssistant\obj\Debug\netstandard2.0\Views\InicioPage.xaml.g.cs

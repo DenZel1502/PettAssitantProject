@@ -33,6 +33,8 @@
         <ShellContent Title="Perfil" Icon="perfil.png" ContentTemplate="{DataTemplate local:PerfilPage}" />
         <ShellContent Title="Mapa" Icon="cuidador.png" ContentTemplate="{DataTemplate local:MapPage}" />
         <ShellContent Title="Ayuda" Icon="icon_about.png" Route="AboutPage" ContentTemplate="{DataTemplate local:AyudaPage}" />
+        <ShellContent Title="Menu" Icon="icon_about.png" Route="MenutPage" ContentTemplate="{DataTemplate local:MenuPage}" />
+        <ShellContent Title="Inicio" Icon="icon_about.png" Route="InicioPage" ContentTemplate="{DataTemplate local:InicioPage}" />
     </TabBar>
 
     <!--
